@@ -19,3 +19,4 @@ alert(countryInfo);
 console.log(countryInfo);
 console.log(countryInfo2);
 console.log(countryInfo3);
+
