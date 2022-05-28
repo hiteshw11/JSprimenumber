@@ -1,3 +1,4 @@
+// Asking user for birth year, current year and retirement age and then calculating age and years left until retirement using multi line arrow function
 'use strict';
 
 const bYear = Number(prompt(`Enter Your Birth Year`));
@@ -15,3 +16,4 @@ const remainingYears = yearsLeft(bYear, rAge);
 alert(`The Number Of Years Left Until Retirement are ${remainingYears}`);
 
 console.log(`The Number Of Years Left Until Retirement are ${remainingYears}`);
+
