@@ -14,7 +14,7 @@ console.log(temp(arr1));
 console.log(temp(arr2));
 
 
-/* Step 1 Ask Questions To Yourself */
+/* Step 1 Ask Questions To Yourself (Understanding the Problem) */
 
 /* 1) How will we Add Degree celsius
     - copy it from google results
