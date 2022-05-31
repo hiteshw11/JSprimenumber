@@ -12,3 +12,22 @@ let temp = function (arrValue) {
 
 console.log(temp(arr1));
 console.log(temp(arr2));
+
+
+/* Step 1 Ask Questions To Yourself */
+
+/* 1) How will we Add Degree celsius
+    - copy it from google results
+  2) How will we print day number for each array element in the string
+   - by using for loop
+
+Step 2 Break Big Problems into Small Problems (Divide & Rule)
+
+1)Declare A Function To Accept Array & Print Normal String
+2)Add Days using for loop variable
+2)Declare Array 
+3)Call Function
+
+Step 3 Do Research
+
+1) Copy degree celsius symbol from google search results */
